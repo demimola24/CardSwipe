@@ -1,8 +1,4 @@
-# Card Swipe Application
-
-A.
-
-## Getting Started
+# Card Swipe Application (Flutter Animations)
 
 A simple app implementing card swipes sort off like the Tinder app and other apps that use card swiping
 
