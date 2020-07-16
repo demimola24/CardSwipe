@@ -1,10 +1,18 @@
-# tinderapp
+# Card Swipe Application
 
-A new Flutter application.
+A.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple app implementing card swipes sort off like the Tinder app and other apps that use card swiping
+
+<img src="https://github.com/demimola24/CardSwipe/blob/master/imageOne.png" width="300" height="530">
+
+<img src="https://github.com/demimola24/CardSwipe/blob/master/imageTwo.png" width="300" height="530">
+
+<img src="https://github.com/demimola24/CardSwipe/blob/master/imageThree.png" width="300" height="530">
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
